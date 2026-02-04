@@ -19,3 +19,4 @@ pizza_and_prices.pop()
 pizza_and_prices.insert(-1, [2,5 , "pepperoni"])
 three_cheapest=pizza_and_prices[3:]
 print(three_cheapest)
+
